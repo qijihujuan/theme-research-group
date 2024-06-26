@@ -1,6 +1,6 @@
 ---
-title: Tour
-date: 2022-10-24
+title: About PI
+date: 2024-06-26
 
 type: landing
 
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to Hu Laboratory
+        content: Next-Generation Therapeutics & Diagnostics 
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 'Share your knowledge with the group and explore exciting new ideas together!'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Bioanalytical Lab
+        content: 'Started Fall 2024!'
         align: right
         background:
           image:
