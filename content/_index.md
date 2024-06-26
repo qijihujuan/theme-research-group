@@ -1,15 +1,14 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-06-26
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Hu Laboratory
       image:
         filename: welcome.jpg
       text: |
